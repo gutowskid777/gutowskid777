@@ -1,6 +1,6 @@
 # Hi, I'm Dylan Gutowski 👋
 
-Cornell Dyson '29 (Sophomore) focused on **finance, crypto, and AI**, building agents and products at the intersection of business and AI workflow automation, and most of it is live. Building at [Armada](https://armada.build).
+Cornell Dyson '29 (Sophomore), concentrating in Business Analytics and Entrepreneurship. Focused on **finance, crypto, and AI**, building agents and products at the intersection of business and AI workflow automation, and most of it is live. Building at [Armada](https://armada.build).
 
 See demos: [dylangutowski.com](https://dylangutowski.com)
 
@@ -21,6 +21,9 @@ An agent that lives in iMessage. Text it an idea and it scores it out of 100 in 
 
 **[Northstar OS](https://github.com/gutowskid777/northstar-os)** · open source<br>
 A personal AI OS for Claude Code. Agents hold my ranked goals, run my projects, keep every ask in one queue, and stop me the second I start rabbit-holing.
+
+**[Armada](https://github.com/gutowskid777/Armada)** · open-source contribution<br>
+An AI Spotlight for macOS. I built its clipboard history, which was merged into the original, and my fork puts exact file-name hits first.
 
 **LXA Alumni Network** · private<br>
 A directory and dashboard for 1,282 Cornell Lambda Chi Alpha alumni: search, filters, a map, and the chapter by the numbers.
