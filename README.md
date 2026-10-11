@@ -1,29 +1,37 @@
-# Hi, I'm Dylan Gutowski 👋
+# Dylan Gutowski
 
-Sophomore at Cornell (Dyson) focused on **finance, crypto, and AI**, building products at the intersection of business and AI workflow automation.
+Cornell Dyson '29, finance. Member of [Armada](https://armada.build), Cornell's invite-only, YC-backed student-founder community. I build AI agents and the products around them, and most of it is live.
 
-📍 New York, NY  ·  🔗 [dylangutowski.com](https://dylangutowski.com)  ·  💼 [LinkedIn](https://www.linkedin.com/in/dylangutowski)
+Every project below plays itself as a live demo on **[dylangutowski.com](https://dylangutowski.com)**.
 
----
+[dylangutowski.com](https://dylangutowski.com) · [LinkedIn](https://www.linkedin.com/in/dylangutowski) · gutowskidylan@gmail.com
 
-## 🚀 What I'm building
+## Building
 
-### [Tenora](https://tenoraapp.com)
-A network manager for college students. Capture the people you meet and follow up with warm, well-timed outreach so the connections that matter don't slip through the cracks.
-**Live → [tenoraapp.com](https://tenoraapp.com)**
+**[Tenora](https://tenoraapp.com)** · live · my company<br>
+A living map of everyone meaningful you've met that tells you who to reach back out to before they go cold.
 
-### [Rise and Invest](https://riseandinvest.org)
-A free financial-literacy workshop series that reached **100+ students across 3+ countries**.
-**Live → [riseandinvest.org](https://riseandinvest.org)**  ·  [`riseandinvest`](https://github.com/gutowskid777/riseandinvest)
+## Shipped
 
-### Brahva
-A hospital **price-transparency** platform to compare procedure costs across hospitals.
-[`BrahvaGutowski`](https://github.com/gutowskid777/BrahvaGutowski)
+**The One-Pager** · Searchlight Capital Partners, summer 2026, internal<br>
+Every analyst built the same one-page credit summary by hand, two hours a time. I rebuilt the template so three pastes pull in everything else, and the deal teams switched to it. With a browser agent on the lookups, it came down to five minutes.
 
-### UniformPass
-A **school-uniform resale** platform that makes it easy to buy and sell gently-used uniforms.
-[`uniformpass`](https://github.com/gutowskid777/uniformpass)
+**[SlopStop](https://github.com/gutowskid777/slopstop)** · [slopstop.ink](https://slopstop.ink) · 2nd place, iMessage agents track, BigRed//Hacks 2026<br>
+An agent that lives in iMessage. Text it an idea and it scores it out of 100 in seconds, then connects you with whoever is building the closest thing. Runs 24/7 on Google Cloud.
 
----
+**[Northstar OS](https://github.com/gutowskid777/northstar-os)** · open source<br>
+A personal AI OS for Claude Code. Agents hold my ranked goals, run my projects, keep every ask in one queue, and stop me the second I start rabbit-holing.
 
-*Currently most excited about AI agents and personal-OS tooling.*
+**LXA Alumni Network** · private<br>
+A directory and dashboard for 1,282 Cornell Lambda Chi Alpha alumni: search, filters, a map, and the chapter by the numbers.
+
+**[Brahva](https://github.com/gutowskid777/BrahvaGutowski)** · prototype, Claude Builders Club hackathon<br>
+Reads the price files hospitals are required to publish and tells you what a procedure will cost you, on your insurance, before you walk in. The pilot parsed 43,510 real prices from 12 hospitals.
+
+**[Rise & Invest](https://riseandinvest.org)** · live<br>
+Tutoring and mentorship for high schoolers on college prep, career strategy and AI. 100+ students across 3+ countries.
+
+**[College Assignment Tracker](https://github.com/gutowskid777/college-assignment-tracker)** · open source<br>
+One HTML file that replaced the Excel tracker I dragged through every semester. Every class I take runs on it.
+
+**[dylangutowski.com](https://dylangutowski.com)** · this website: one HTML file, no framework, eight demos that play themselves.
