@@ -1,15 +1,15 @@
-# Dylan Gutowski
+# Hi, I'm Dylan Gutowski 👋
 
-Cornell Dyson '29, finance. Member of [Armada](https://armada.build), Cornell's invite-only, YC-backed student-founder community. I build AI agents and the products around them, and most of it is live.
+Cornell Dyson '29 (Sophomore) focused on **finance, crypto, and AI**, building agents and products at the intersection of business and AI workflow automation, and most of it is live. Member of [Armada](https://armada.build).
 
-Every project below plays itself as a live demo on **[dylangutowski.com](https://dylangutowski.com)**.
+See demos: [dylangutowski.com](https://dylangutowski.com)
 
-[dylangutowski.com](https://dylangutowski.com) · [LinkedIn](https://www.linkedin.com/in/dylangutowski) · gutowskidylan@gmail.com
+📍 New York, NY  ·  💼 [LinkedIn](https://www.linkedin.com/in/dylangutowski)
 
 ## Building
 
 **[Tenora](https://tenoraapp.com)** · live · my company<br>
-A living map of everyone meaningful you've met that tells you who to reach back out to before they go cold.
+The most beautiful and simple way to manage the personal connections you have with your professional network.
 
 ## Shipped
 
@@ -34,4 +34,4 @@ Tutoring and mentorship for high schoolers on college prep, career strategy and 
 **[College Assignment Tracker](https://github.com/gutowskid777/college-assignment-tracker)** · open source<br>
 One HTML file that replaced the Excel tracker I dragged through every semester. Every class I take runs on it.
 
-**[dylangutowski.com](https://dylangutowski.com)** · [source](https://github.com/gutowskid777/dylangutowski.com) · this website: one HTML file, no framework, eight demos that play themselves.
+**[dylangutowski.com](https://dylangutowski.com)** · [source](https://github.com/gutowskid777/dylangutowski.com)
