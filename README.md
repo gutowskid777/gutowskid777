@@ -1,6 +1,6 @@
 # Hi, I'm Dylan Gutowski 👋
 
-Cornell Dyson '29 (Sophomore) focused on **finance, crypto, and AI**, building agents and products at the intersection of business and AI workflow automation, and most of it is live. Member of [Armada](https://armada.build).
+Cornell Dyson '29 (Sophomore) focused on **finance, crypto, and AI**, building agents and products at the intersection of business and AI workflow automation, and most of it is live. Building at [Armada](https://armada.build).
 
 See demos: [dylangutowski.com](https://dylangutowski.com)
 
