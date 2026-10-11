@@ -34,4 +34,4 @@ Tutoring and mentorship for high schoolers on college prep, career strategy and 
 **[College Assignment Tracker](https://github.com/gutowskid777/college-assignment-tracker)** · open source<br>
 One HTML file that replaced the Excel tracker I dragged through every semester. Every class I take runs on it.
 
-**[dylangutowski.com](https://dylangutowski.com)** · this website: one HTML file, no framework, eight demos that play themselves.
+**[dylangutowski.com](https://dylangutowski.com)** · [source](https://github.com/gutowskid777/dylangutowski.com) · this website: one HTML file, no framework, eight demos that play themselves.
