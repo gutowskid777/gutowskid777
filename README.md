@@ -16,9 +16,6 @@ The most beautiful and simple way to manage the personal connections you have wi
 **The One-Pager** · Searchlight Capital Partners, summer 2026, internal<br>
 Every analyst built the same one-page credit summary by hand, two hours a time. I rebuilt the template so three pastes pull in everything else, and the deal teams switched to it. With a browser agent on the lookups, it came down to five minutes.
 
-**[SlopStop](https://github.com/gutowskid777/slopstop)** · [slopstop.ink](https://slopstop.ink) · 2nd place, iMessage agents track, BigRed//Hacks 2026<br>
-An agent that lives in iMessage. Text it an idea and it scores it out of 100 in seconds, then connects you with whoever is building the closest thing. Runs 24/7 on Google Cloud.
-
 **[Northstar OS](https://github.com/gutowskid777/northstar-os)** · open source<br>
 A personal AI OS for Claude Code. Agents hold my ranked goals, run my projects, keep every ask in one queue, and stop me the second I start rabbit-holing.
 
@@ -27,6 +24,9 @@ An AI Spotlight for macOS. I built its clipboard history, which was merged into 
 
 **LXA Alumni Network** · private<br>
 A directory and dashboard for 1,282 Cornell Lambda Chi Alpha alumni: search, filters, a map, and the chapter by the numbers.
+
+**[SlopStop](https://github.com/gutowskid777/slopstop)** · [slopstop.ink](https://slopstop.ink) · 2nd place, iMessage agents track, BigRed//Hacks 2026<br>
+An agent that lives in iMessage. Text it an idea and it scores it out of 100 in seconds, then connects you with whoever is building the closest thing. Runs 24/7 on Google Cloud.
 
 **[Brahva](https://github.com/gutowskid777/BrahvaGutowski)** · prototype, Claude Builders Club hackathon<br>
 Reads the price files hospitals are required to publish and tells you what a procedure will cost you, on your insurance, before you walk in. The pilot parsed 43,510 real prices from 12 hospitals.
